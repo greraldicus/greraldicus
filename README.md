@@ -8,4 +8,5 @@ Stack:
 
 BackEnd:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-v0.68.0-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-%2300D5D1.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+
