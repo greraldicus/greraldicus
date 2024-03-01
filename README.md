@@ -1,4 +1,4 @@
-### Hi,there
+### Hi, there!
 
 ### I am PSU and MIPT student. Currently studying in Big Data and Artificial Intelligence course
 
