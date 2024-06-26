@@ -12,6 +12,9 @@ BackEnd:
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-%2300D5D1.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 
+FrontEnd:
+![Vue](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+
 AI/ML:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
